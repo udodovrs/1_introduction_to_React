@@ -1,7 +1,9 @@
 .wrap{
 	width: 200px;
 	background-color: rgb(51, 51, 51);
-	display: grid;
+	display: flex;
+	flex-direction: column;
+	border-radius: 2px;
 }
 
 .display {
